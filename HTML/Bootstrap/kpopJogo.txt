@@ -1,0 +1,8 @@
+kpop -> rpg
+
+cada posição da boy/girl band será uma classe, ex: dançarino principal.
+cada classe terá seu atributo característico
+o jogo terá uma historia principal e ocorrerá em um mapa aberto
+e claro, havera missões secundárias
+e girará em torno do mundo do kpop
+batalhas entre grupos e muito mais.

@@ -1,0 +1,2 @@
+assim que o timer terminar a contagem, decremente um do primeiro contador.
+pegar os output, bons, que mandam sinal alto quando o contador esta em zero, e colocar em uma porta end. A saida significa que alimento esta pronto
